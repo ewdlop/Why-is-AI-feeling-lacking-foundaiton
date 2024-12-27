@@ -1,4 +1,4 @@
-# Why-is-AI-feeling-lacking-foundaiton(English was desgined to have this kind of 10000 interpeation in one sentence.)
+# Why-is-AI-feeling-lacking-foundaiton(English was desgined to have this kind of 10000 interpeations in one sentence.)
 
 I can say: why is AI not constructing these on its own
 some may say: why do I feel AI lacks foundations
