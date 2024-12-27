@@ -1,4 +1,8 @@
-# Why-is-AI-feeling-lacking-foundaiton
+# Why-is-AI-feeling-lacking-foundaiton(English was desgined to have this kind of 10000 interpeation in one sentence.)
+
+I can say: why is AI not constructing these on its own
+some may say: why do I feel AI lacks foundations
+
 
 Using natural language processing (NLP) languages or conventional languages like English, Chinese, and Japanese as computing languages are two distinct paradigms with unique implications. Here are the comparisons and some alternative ideas:
 
