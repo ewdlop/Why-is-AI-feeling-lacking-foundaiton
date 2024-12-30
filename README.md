@@ -2,6 +2,9 @@
 
 一秒十萬上下; wolf of the Wall Street;
 
+物理世界拿物理解釋這物理世界
+人腦用人體來認知自己
+
 # Why-is-AI-feeling-lacking-foundaiton(English was desgined to have this kind of 10000 interpeations in one sentence.)
 
 - I can say: why is AI not constructing these on its own
