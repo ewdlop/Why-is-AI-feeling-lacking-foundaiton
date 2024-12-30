@@ -1,6 +1,6 @@
 # 這位大哥 AI就是用數學研究自己啊
 
-一秒十萬上下;
+一秒十萬上下; wolf of the Wall Street;
 
 # Why-is-AI-feeling-lacking-foundaiton(English was desgined to have this kind of 10000 interpeations in one sentence.)
 
