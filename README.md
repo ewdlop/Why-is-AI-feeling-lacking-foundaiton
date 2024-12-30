@@ -1,3 +1,5 @@
+One person that did 0.0........1% of works want to take infinity percent of credit = RELGIONS
+
 GOd kows what I am talking about.
 
 these group are trying to make it like they sohuld get ready to lose a famiyl member.
