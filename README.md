@@ -1,3 +1,6 @@
+# 這位大哥 AI就是用數學研究自己啊
+
+
 # Why-is-AI-feeling-lacking-foundaiton(English was desgined to have this kind of 10000 interpeations in one sentence.)
 
 - I can say: why is AI not constructing these on its own
