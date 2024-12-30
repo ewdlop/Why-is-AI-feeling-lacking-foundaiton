@@ -1,4 +1,5 @@
-So needy
+
+docs : these people’s neural network circuitry software hasnt been update for decades. So needy
 
 One person that did 0.0........1% of works want to take infinity percent of credit = RELIGIONS
 
