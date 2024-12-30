@@ -1,6 +1,7 @@
 import openai
 import requests
 from requests.auth import HTTPBasicAuth
+import base64
 
 # Set up your OpenAI and GitHub credentials
 openai.api_key = 'YOUR_OPENAI_API_KEY'
@@ -26,7 +27,7 @@ def generate_code(idea):
     code = response.choices[0].text.strip()
     return code
 
-def create_file_content(file_path, content):
+def create_file_content(file_path, content, sha=None):
     url = f"https://api.github.com/repos/{repo_owner}/{repo_name}/contents/{file_path}"
     headers = {
         "Authorization": f"Bearer {github_token}",
@@ -34,14 +35,19 @@ def create_file_content(file_path, content):
     }
     data = {
         "message": f"Add {file_path}",
-        "content": content.encode('utf-8').decode('latin1'),
+        "content": base64.b64encode(content.encode('utf-8')).decode('utf-8'),
         "branch": "main"
     }
+    if sha:
+        data["sha"] = sha
+
     response = requests.put(url, json=data, headers=headers)
     if response.status_code == 201:
         print("File created successfully.")
+    elif response.status_code == 200:
+        print("File updated successfully.")
     else:
-        print(f"Failed to create file: {response.json()}")
+        print(f"Failed to create or update file: {response.json()}")
 
 def main():
     prompt = "Generate a big idea for a new software project."
