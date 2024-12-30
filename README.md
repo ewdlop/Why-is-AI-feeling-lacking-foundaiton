@@ -1,3 +1,11 @@
+these group are trying to make it like they sohuld get ready to lose a famiyl member.
+
+I be: GOTＬＯＳＴ
+Ｒｕｓｓ　ｂｅ：　ＬＯＳＴＳＯＮＧ
+Ｉbe: Peter Griffin be I been to Lost Island too
+
+#//
+
 他們人家黑客惡整我們家好幾年嘞 你們天天跟我禱告啥???
 他們人家黑客惡整我們家好幾年嘞 你們天天跟我禱告啥???
 他們人家黑客惡整我們家好幾年嘞 你們天天跟我禱告啥???
