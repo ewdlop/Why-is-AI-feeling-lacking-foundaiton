@@ -1,4 +1,4 @@
-One person that did 0.0........1% of works want to take infinity percent of credit = RELGIONS
+One person that did 0.0........1% of works want to take infinity percent of credit = RELIGIONS
 
 GOd kows what I am talking about.
 
