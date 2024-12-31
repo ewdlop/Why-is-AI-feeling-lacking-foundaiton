@@ -1,3 +1,11 @@
+Are you praying for their goodness or good fortunate?
+
+or are you trying to say you are strong 
+
+or are they saying I did all thes good stff and all you do is praying?
+
+Plot convening is plot convening
+
 # Mr/Mrs Criminals knows my family member just going to cry to Jesus all day long and do nothing about this.
 
 
